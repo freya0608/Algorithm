@@ -18,4 +18,4 @@ function isPalindrome(s) {
     return true;
 }
 s = 'shhs';
-isPalindrome(s);
+isPalindrome(s);//时间复杂度o(n),空间复杂度o(1)
